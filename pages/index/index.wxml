@@ -1,0 +1,23 @@
+<swiper class="slide" autoplay="true" interval="3000" circular="true" 
+indicator-dots="true" indicator-color="#FF0">
+<swiper-item>
+<image src="../../icons/ad1.jpg"></image>
+</swiper-item>
+<swiper-item>
+<image src="../../icons/ad2.jpg"></image>
+</swiper-item>
+<swiper-item>
+<image src="../../icons/ad3.jpg"></image>
+</swiper-item>
+</swiper>
+<view class="grid">
+<view class="item"><image src="../../icons/collect.png"></image></view>
+<view class="item"><image src="../../icons/collect.png"></image></view>
+<view class="item"><image src="../../icons/collect.png"></image></view>
+<view class="item"><image src="../../icons/collect.png"></image></view>
+<view class="item"><image src="../../icons/collect.png"></image></view>
+<view class="item"><image src="../../icons/collect.png"></image></view>
+<view class="item"><image src="../../icons/collect.png"></image></view>
+<view class="item"><image src="../../icons/collect.png"></image></view>
+<view class="item"><image src="../../icons/collect.png"></image></view>
+</view>
